@@ -1,0 +1,399 @@
+DoctorName,Specialty,City,IndianMobileNumber
+Dr. Aarav Sharma,Cardiologist,Nagpur,8573319767
+Dr. Riya Desai,Dermatologist,Nagpur,7151151158
+Dr. Sameer Patil,Neurologist,Nagpur,7627437676
+Dr. Neha Iyer,Pediatrician,Nagpur,6681485474
+Dr. Pranav Joshi,Orthopedic Surgeon,Nagpur,8578553988
+Dr. Meera Rao,Endocrinologist,Nagpur,9268849119
+Dr. Karan Kulkarni,Gastroenterologist,Nagpur,8548861013
+Dr. Vikram Singh,Oncologist,Nagpur,9849046955
+Dr. Tanvi Nair,Pulmonologist,Nagpur,8301440508
+Dr. Deepak Verma,Psychiatrist,Nagpur,6485404854
+Dr. Ananya Kapoor,Cardiologist,Nagpur,7721199167
+Dr. Suresh Bhatia,Dermatologist,Nagpur,8559013791
+Dr. Rahul Choudhary,Neurologist,Nagpur,7768954819
+Dr. Nisha Salunkhe,Pediatrician,Nagpur,9763497116
+Dr. Priya Rane,Orthopedic Surgeon,Nagpur,8390400830
+Dr. Mohan Deshmukh,Endocrinologist,Nagpur,6605093206
+Dr. Kavita Gokhale,Gastroenterologist,Nagpur,7808634162
+Dr. Vinay Menon,Oncologist,Nagpur,9389276348
+Dr. Tanya Dixit,Pulmonologist,Nagpur,9225773528
+Dr. Dev Rajput,Psychiatrist,Nagpur,7127141926
+Dr. Aditi Pandey,Cardiologist,Nagpur,8060245267
+Dr. Sneha Jadhav,Dermatologist,Nagpur,9117114496
+Dr. Ravi Nair,Neurologist,Nagpur,7925446610
+Dr. Neelam Bhosale,Pediatrician,Nagpur,6844539412
+Dr. Prakash Pawar,Orthopedic Surgeon,Nagpur,8302961438
+Dr. Madhuri Kale,Endocrinologist,Nagpur,7093249782
+Dr. Kunal Desai,Gastroenterologist,Nagpur,6047414142
+Dr. Varun Dani,Oncologist,Nagpur,8072799404
+Dr. Tanisha Iyer,Pulmonologist,Nagpur,9981588733
+Dr. Dinesh Kulkarni,Psychiatrist,Nagpur,6631283097
+Dr. Aakash Roy,Cardiologist,Nagpur,7059177731
+Dr. Sanya Sharma,Dermatologist,Nagpur,7120930763
+Dr. Rohan Joshi,Neurologist,Nagpur,8168676451
+Dr. Nandini Iyer,Pediatrician,Nagpur,7786460228
+Dr. Pradeep Rane,Orthopedic Surgeon,Nagpur,7954495838
+Dr. Manisha Patil,Endocrinologist,Nagpur,8260671413
+Dr. Karan Nair,Gastroenterologist,Nagpur,6145795712
+Dr. Vikrant Sinha,Oncologist,Nagpur,7012578347
+Dr. Tania Ghosh,Pulmonologist,Nagpur,9942579603
+Dr. Deep Chatterjee,Psychiatrist,Nagpur,9431996630
+Dr. Aishwarya Verma,Cardiologist,Nagpur,8325007641
+Dr. Suresh Joshi,Dermatologist,Nagpur,9980470363
+Dr. Raghav Patil,Neurologist,Nagpur,8736309155
+Dr. Neha Bhosale,Pediatrician,Nagpur,7795333700
+Dr. Pranav More,Orthopedic Surgeon,Nagpur,9139645676
+Dr. Meenal Deshmukh,Endocrinologist,Nagpur,9466354152
+Dr. Kiran Kulkarni,Gastroenterologist,Nagpur,6718214801
+Dr. Vikas Rao,Oncologist,Nagpur,7700144153
+Dr. Tushar Iyer,Pulmonologist,Nagpur,6598010577
+Dr. Disha Singh,Psychiatrist,Nagpur,8387264269
+Dr. Aarav Gupta,Cardiologist,Nagpur,6748920111
+Dr. Riya Mehta,Dermatologist,Nagpur,8503378937
+Dr. Sameer Patil,Neurologist,Nagpur,7292674770
+Dr. Neha Sharma,Pediatrician,Nagpur,9603451329
+Dr. Pranav Joshi,Orthopedic Surgeon,Nagpur,8904489682
+Dr. Meera Deshmukh,Endocrinologist,Nagpur,8447918696
+Dr. Karan Gokhale,Gastroenterologist,Nagpur,6884798960
+Dr. Vikram Menon,Oncologist,Nagpur,6752558801
+Dr. Tanvi Dixit,Pulmonologist,Nagpur,6389368142
+Dr. Deepak Rajput,Psychiatrist,Nagpur,7903403408
+Dr. Ananya Kapoor,Cardiologist,Nagpur,8254017122
+Dr. Suresh Bhatia,Dermatologist,Nagpur,9540471935
+Dr. Rahul Choudhary,Neurologist,Nagpur,7464515730
+Dr. Nisha Salunkhe,Pediatrician,Nagpur,6482645475
+Dr. Priya Rane,Orthopedic Surgeon,Nagpur,8942148554
+Dr. Mohan Deshmukh,Endocrinologist,Nagpur,6434565263
+Dr. Kavita Gokhale,Gastroenterologist,Nagpur,6245473437
+Dr. Vinay Menon,Oncologist,Nagpur,7920492733
+Dr. Tanya Dixit,Pulmonologist,Nagpur,8817584529
+Dr. Arjun Verma,Cardiologist,Nagpur,8000988102
+Dr. Priya Nair,Dermatologist,Nagpur,8501450261
+Dr. Kunal Patil,Neurologist,Nagpur,8564514254
+Dr. Sneha Joshi,Pediatrician,Nagpur,9638584182
+Dr. Raghav Iyer,Orthopedic Surgeon,Nagpur,7808067800
+Dr. Meera Rao,Endocrinologist,Nagpur,7255261788
+Dr. Anil Kulkarni,Gastroenterologist,Nagpur,9745278867
+Dr. Vikrant Singh,Oncologist,Nagpur,8621678703
+Dr. Tanvi Deshmukh,Pulmonologist,Nagpur,6419599964
+Dr. Deepak Chatterjee,Psychiatrist,Nagpur,9671718568
+Dr. Aditi Kapoor,Cardiologist,Nagpur,9743112795
+Dr. Suresh Bhatia,Dermatologist,Nagpur,8995777989
+Dr. Rahul Choudhary,Neurologist,Nagpur,6423618683
+Dr. Nisha Salunkhe,Pediatrician,Nagpur,9763841977
+Dr. Priya Rane,Orthopedic Surgeon,Nagpur,7713478069
+Dr. Mohan Deshmukh,Endocrinologist,Nagpur,8450971290
+Dr. Kavita Gokhale,Gastroenterologist,Nagpur,9303140763
+Dr. Vinay Menon,Oncologist,Nagpur,8367104903
+Dr. Tanya Dixit,Pulmonologist,Nagpur,7148145812
+Dr. Dev Rajput,Psychiatrist,Nagpur,9297675500
+Dr. Aishwarya Pandey,Cardiologist,Nagpur,7021716705
+Dr. Sneha Jadhav,Dermatologist,Nagpur,7812811726
+Dr. Rohan Nair,Neurologist,Nagpur,8541912312
+Dr. Neelam Bhosale,Pediatrician,Nagpur,7888279259
+Dr. Prakash Pawar,Orthopedic Surgeon,Nagpur,8912424237
+Dr. Madhuri Kale,Endocrinologist,Nagpur,7986446190
+Dr. Kunal Desai,Gastroenterologist,Nagpur,8269995258
+Dr. Varun Dani,Oncologist,Nagpur,8795848015
+Dr. Tanisha Iyer,Pulmonologist,Nagpur,9457679668
+Dr. Dinesh Kulkarni,Psychiatrist,Nagpur,7030906830
+Dr. Aarav Roy,Cardiologist,Nagpur,6018623159
+Dr. Sanya Sharma,Dermatologist,Nagpur,8613030233
+Dr. Raghav Joshi,Neurologist,Nagpur,7329504354
+Dr. Nandini Iyer,Pediatrician,Nagpur,9381861383
+Dr. Pradeep Rane,Orthopedic Surgeon,Nagpur,8246678464
+Dr. Manisha Patil,Endocrinologist,Nagpur,9801094716
+Dr. Karan Nair,Gastroenterologist,Nagpur,8315576767
+Dr. Vikrant Sinha,Oncologist,Nagpur,9344453333
+Dr. Tania Ghosh,Pulmonologist,Nagpur,9570046824
+Dr. Deep Chatterjee,Psychiatrist,Nagpur,8051491548
+Dr. Aishwarya Verma,Cardiologist,Nagpur,7986900554
+Dr. Suresh Joshi,Dermatologist,Nagpur,7001098928
+Dr. Raghav Patil,Neurologist,Nagpur,8773170114
+Dr. Neha Bhosale,Pediatrician,Nagpur,6835211263
+Dr. Pranav More,Orthopedic Surgeon,Nagpur,7318402539
+Dr. Meenal Deshmukh,Endocrinologist,Nagpur,9457592834
+Dr. Kiran Kulkarni,Gastroenterologist,Nagpur,9323602757
+Dr. Vikas Rao,Oncologist,Nagpur,8654431151
+Dr. Tushar Iyer,Pulmonologist,Nagpur,8120950344
+Dr. Disha Singh,Psychiatrist,Nagpur,7835022490
+Dr. Aarav Gupta,Cardiologist,Nagpur,8939816433
+Dr. Riya Mehta,Dermatologist,Nagpur,9094360792
+Dr. Sameer Patil,Neurologist,Nagpur,6251167498
+Dr. Neha Sharma,Pediatrician,Nagpur,6831679181
+Dr. Pranav Joshi,Orthopedic Surgeon,Nagpur,7334460395
+Dr. Meera Deshmukh,Endocrinologist,Nagpur,8322456794
+Dr. Karan Gokhale,Gastroenterologist,Nagpur,6998151293
+Dr. Vikram Menon,Oncologist,Nagpur,6179640372
+Dr. Tanvi Dixit,Pulmonologist,Nagpur,7396775003
+Dr. Deepak Rajput,Psychiatrist,Nagpur,7386946053
+Dr. Ananya Kapoor,Cardiologist,Nagpur,8605277450
+Dr. Suresh Bhatia,Dermatologist,Nagpur,8094707288
+Dr. Rahul Choudhary,Neurologist,Nagpur,8846682608
+Dr. Nisha Salunkhe,Pediatrician,Nagpur,9187277415
+Dr. Priya Rane,Orthopedic Surgeon,Nagpur,9380342286
+Dr. Mohan Deshmukh,Endocrinologist,Nagpur,7419984767
+Dr. Kavita Gokhale,Gastroenterologist,Nagpur,7160809815
+Dr. Vinay Menon,Oncologist,Nagpur,8417786460
+Dr. Tanya Dixit,Pulmonologist,Nagpur,8044793686
+Dr. Aarav Sharma,Cardiologist,Nagpur,9273910631
+Dr. Riya Desai,Dermatologist,Nagpur,7912569376
+Dr. Nikhalesh Nilawar,Dentist,Nagpur,7947419279
+Dr. Vaishali Sandeep Deshmukh,Gynecologist,Nagpur,8490092598
+Dr. Pankaj Dwivedi,Hematologist,Nagpur,8971225901
+Dr. Rahul Saxena,Hepatologist,Nagpur,8511939421
+Dr. Amol Ramteke,Infectious Disease Specialist,Nagpur,8050096924
+Dr. Abhay Matte,Neonatologist,Nagpur,7942682656
+Dr. Shivangi Sahewala Mutha,Obstetrician,Nagpur,8511938977
+Dr. Pankaj Gupta,Rheumatologist,Nagpur,9943872838
+Dr. Sachin B. Deshmukh,Urologist,Nagpur,9845727484
+Dr. Rohit Gupta,Vascular Surgeon,Nagpur,8600888444
+Dr. Vinay Saoji,Plastic Surgeon,Nagpur,8123871168
+Dr. Deepak Andey,General practitioners,Nagpur,8460442875
+Dr. Sudhir Chugh,Dermatologist,Nagpur,9876543210
+Dr. Aparna Santhanam,Dermatologist,Nagpur,9123456789
+Dr. Rakesh Agarwal,General Practitioner,Nagpur,8765432109
+Dr. Sneha Shah,General Practitioner,Nagpur,9988776655
+Dr. R.P. Singh,Neurologist,Nagpur,9012345678
+Dr. Gaurav Gupta,Neurologist,Nagpur,9123456780
+Dr. Natarajan Balasubramanian,Ophthalmologist,Nagpur,9876012345
+Dr. Anupam Dutta,Ophthalmologist,Nagpur,9908765432
+Dr. Samir Parikh,Psychiatrist,Nagpur,9123678901
+Dr. Shyam Bhat,Psychiatrist,Nagpur,9987612345
+Dr. Vivek Raj,Gastroenterologist,Nagpur,9876543201
+Dr. Amit Maydeo,Gastroenterologist,Nagpur,9009876543
+Dr. Subhaprakash Sanyal,Hematologist,Nagpur,9898989898
+Dr. Mamta Manglani,Hematologist,Nagpur,9101010101
+Dr. Nandita Palshetkar,Obstetrician/Gynecologist,Nagpur,9876789012
+Dr. Richa Katiyar,Obstetrician/Gynecologist,Nagpur,9234567890
+Dr. Om Srivastava,Infectious Disease Specialist,Nagpur,9998877766
+Dr. Kamini Walia,Infectious Disease Specialist,Nagpur,9765432101
+Dr. Ramakant Panda,General Surgeon,Nagpur,9098765432
+Dr. Sanjay Sharma,General Surgeon,Nagpur,9543210987
+Dr. Ashok Kumar,Rheumatologist,Nagpur,9876012390
+Dr. Dhiraj Gupta,Rheumatologist,Nagpur,9234015678
+Dr. Arvind Kumar,Pulmonologist,Nagpur,9897654321
+Dr. Aadhya Sharma, Dermatologist,Nagpur,9123894567
+Dr. Aarav Patel, Dermatologist,Nagpur,9876098765
+Dr. Aashi Gupta, General Practitioner,Nagpur,9876543210
+Dr. Abhay Singh, General Practitioner,Nagpur,9123456780
+Dr. Abhishek Verma, Neurologist,Nagpur,9988776655
+Dr. Aditya Nair, Neurologist,Nagpur,8765432109
+Dr. Aditi Joshi, Ophthalmologist,Nagpur,7654321098
+Dr. Akash Reddy, Ophthalmologist,Nagpur,6543210987
+Dr. Alok Bansal, Psychiatrist,Nagpur,5432109876
+Dr. Aman Chatterjee, Psychiatrist,Nagpur,4321098765
+Dr. Amisha Mehta, General Surgeon,Nagpur,3210987654
+Dr. Anaya Rao, General Surgeon,Nagpur,2109876543
+Dr. Anil Kumar, Rheumatologist,Nagpur,1098765432
+Dr. Anisha Desai, Rheumatologist,Nagpur,9871234560
+Dr. Ankita Iyer, Pulmonologist,Nagpur,9123456701
+Dr. Anuj Kapoor, Pulmonologist,Nagpur,9987654321
+Dr. Arjun Menon, Infectious Disease Specialist,Nagpur,8765432101
+Dr. Arvind Sethi, Infectious Disease Specialist,Nagpur,7650987654
+Dr. Asha Nair, Oncologist,Nagpur,6543210980
+Dr. Ashish Agarwal, Oncologist,Nagpur,5432109871
+Dr. Avantika Singh, Gastroenterologist,Nagpur,4321098760
+Dr. Ayush Sharma, Gastroenterologist,Nagpur,3210987651
+Dr. Bhavna Gupta, Hematologist,Nagpur,2109876542
+Dr. Bhushan Patel, Hematologist,Nagpur,1098765431
+Dr. Charan Reddy, Obstetrician,Nagpur,9876543201
+Dr. Charu Verma, Obstetrician,Nagpur,9123456789
+Dr. Deepak Joshi, Pediatrician,Nagpur,9988776644
+Dr. Deepika Sharma, Pediatrician,Nagpur,8765432190
+Dr. Devendra Singh, Urologist,Nagpur,7654321090
+Dr. Dhruv Kumar, Urologist,Nagpur,6543210976
+Dr. Dinesh Mehta, Endocrinologist,Nagpur,5432109878
+Dr. Divya Rao, Endocrinologist,Nagpur,4321098761
+Dr. Ekta Iyer, Toxicologist,Nagpur,3210987653
+Dr. Farhan Khan, Toxicologist,Nagpur,2109876541
+Dr. Gaurav Bansal, Plastic Surgeon,Nagpur,1098765430
+Dr. Gayatri Desai, Plastic Surgeon,Nagpur,9876543211
+Dr. Gaurika Reddy, Geneticist,Nagpur,9123456782
+Dr. Harish Nair, Geneticist,Nagpur,9988776650
+Dr. Harsh Gupta, Cardiologist,Nagpur,8765432108
+Dr. Heena Patel, Cardiologist,Nagpur,7654321097
+Dr. Hemant Singh, Otolaryngologist (ENT),Nagpur,6543210985
+Dr. Hitesh Verma, Otolaryngologist (ENT),Nagpur,5432109875
+Dr. Isha Joshi, Neonatologist,Nagpur,4321098764
+Dr. Ishaan Mehta, Neonatologist,Nagpur,3210987652
+Dr. Jaya Sharma, Vascular Surgeon,Nagpur,2109876540
+Dr. Jayesh Kumar, Vascular Surgeon,Nagpur,1098765438
+Dr. Jyoti Reddy, Orthopedic Surgeon,Nagpur,9876543202
+Dr. Karan Singh, Orthopedic Surgeon,Nagpur,9123456783
+Dr. Kavita Patel, Psychiatrist,Nagpur,9988776656
+Dr. Kiran Gupta, Psychiatrist,Nagpur,8765432107
+Dr. Kriti Desai, Neurologist,Nagpur,7654321096
+Dr. Krunal Nair, Neurologist,Nagpur,6543210984
+Dr. Lakshmi Iyer, Gastroenterologist,Nagpur,5432109874
+Dr. Lata Sharma, Gastroenterologist,Nagpur,4321098763
+Dr. Manish Verma, Oncologist,Nagpur,3210987650
+Dr. Meera Reddy, Oncologist,Nagpur,2109876539
+Dr. Mohan Gupta, Pulmonologist,Nagpur,1098765439
+Dr. Mukesh Singh, Pulmonologist,Nagpur,9876543212
+Dr. Neha Joshi, Infectious Disease Specialist,Nagpur,9123456784
+Dr. Neeraj Patel, Infectious Disease Specialist,Nagpur,9988776640
+Dr. Nidhi Sharma, Dermatologist,Nagpur,8765432106
+Dr. Nikhil Kumar, Dermatologist,Nagpur,7654321095
+Dr. Nisha Rao, Hematologist,Nagpur,6543210983
+Dr. Omkar Bansal, Hematologist,Nagpur,5432109873
+Dr. Pallavi Desai, Endocrinologist,Nagpur,4321098762
+Dr. Parth Mehta, Endocrinologist,Nagpur,3210987649
+Dr. Pooja Reddy, Pediatrician,Nagpur,2109876538
+Dr. Pradeep Singh, Pediatrician,Nagpur,1098765437
+Dr. Pranav Gupta, Obstetrician,Nagpur,9876543203
+Dr. Pratik Joshi, Obstetrician,Nagpur,9123456785
+Dr. Priti Sharma, General Surgeon,Nagpur,9988776645
+Dr. Rahul Nair, General Surgeon,Nagpur,8765432105
+Dr. Rajesh Kumar, Rheumatologist,Nagpur,7654321094
+Dr. Rakesh Patel, Rheumatologist,Nagpur,6543210982
+Dr. Ramesh Verma, Neurologist,Nagpur,5432109872
+Dr. Rani Singh, Neurologist,Nagpur,4321098765
+Dr. Ravi Gupta, Ophthalmologist,Nagpur,3210987648
+Dr. Riya Desai, Ophthalmologist,Nagpur,2109876537
+Dr. Rohit Reddy, Infectious Disease Specialist,Nagpur,1098765436
+Dr. Sagar Iyer, Infectious Disease Specialist,Nagpur,9876543213
+Dr. Sakshi Sharma, Psychiatrist,Nagpur,9123456786
+Dr. Sameer Nair, Psychiatrist,Nagpur,9988776641
+Dr. Sanjay Patel, General Practitioner,Nagpur,8765432104
+Dr. Sangeeta Gupta, General Practitioner,Nagpur,7654321093
+Dr. Sanjeev Kumar, Urologist,Nagpur,6543210981
+Dr. Sanjiv Verma, Urologist,Nagpur,5432109870
+Dr. Sarita Reddy, Gastroenterologist,Nagpur,4321098769
+Dr. Satish Singh, Gastroenterologist,Nagpur,3210987647
+Dr. Shalini Joshi, Oncologist,Nagpur,2109876536
+Dr. Shankar Patel, Oncologist,Nagpur,1098765435
+Dr. Shikha Gupta, Pulmonologist,Nagpur,9876543204
+Dr. Shivam Kumar, Pulmonologist,Nagpur,9123456787
+Dr. Shweta Nair, Infectious Disease Specialist,Nagpur,9988776646
+Dr. Siddharth Reddy, Infectious Disease Specialist,Nagpur,8765432103
+Dr. Sneha Sharma, Dermatologist,Nagpur,7654321092
+Dr. Sonal Desai, Dermatologist,Nagpur,6543210980
+Dr. Soumya Iyer, Hematologist,Nagpur,5432109869
+Dr. Suresh Kumar, Hematologist,Nagpur,4321098768
+Dr. Swati Mehta, Endocrinologist,Nagpur,3210987646
+Dr. Tanvi Patel, Endocrinologist,Nagpur,2109876535
+Dr. Tejas Reddy, Pediatrician,Nagpur,1098765434
+Dr. Uday Singh, Pediatrician,Nagpur,9876543214
+Dr. Uma Gupta, Obstetrician,Nagpur,9123456788
+Dr. Varun Joshi, Obstetrician,Nagpur,9988776642
+Dr. Veerendra Nair, General Surgeon,Nagpur,8765432102
+Dr. Vikram Sharma, General Surgeon,Nagpur,7654321091
+Dr. Vinay Patel, Rheumatologist,Nagpur,6543210979
+Dr. Yash Gupta, Rheumatologist,Nagpur,5432109868
+Dr. Zainab Khan, Neurologist,Nagpur,4321098767
+Dr. Aabha Sharma, Neurologist,Nagpur,3210987645
+Dr. Aakriti Singh, Ophthalmologist,Nagpur,2109876534
+Dr. Aashish Verma, Dermatologist,Nagpur,1098765433
+Dr. Abha Joshi, Dermatologist,Nagpur,9876543205
+Dr. Abhinav Reddy, General Practitioner,Nagpur,9123456789
+Dr. Abir Gupta, General Practitioner,Nagpur,9988776643
+Dr. Adhira Nair, Neurologist,Nagpur,8765432101
+Dr. Aditi Kapoor, Neurologist,Nagpur,7654321090
+Dr. Aishwarya Singh, Ophthalmologist,Nagpur,6543210978
+Dr. Ajay Mehta, Ophthalmologist,Nagpur,5432109867
+Dr. Akriti Sharma, Psychiatrist,Nagpur,4321098766
+Dr. Alisha Patel, Psychiatrist,Nagpur,3210987644
+Dr. Amol Kumar, General Surgeon,Nagpur,2109876533
+Dr. Anchal Desai, General Surgeon,Nagpur,1098765432
+Dr. Anirudh Gupta, Rheumatologist,Nagpur,9876543215
+Dr. Anjali Reddy, Rheumatologist,Nagpur,9123456790
+Dr. Anshuman Singh, Pulmonologist,Nagpur,9988776647
+Dr. Arnav Sharma, Pulmonologist,Nagpur,8765432100
+Dr. Ashok Patel, Infectious Disease Specialist,Nagpur,7654321089
+Dr. Asmita Verma, Infectious Disease Specialist,Nagpur,6543210977
+Dr. Atul Joshi, Oncologist,Nagpur,5432109866
+Dr. Avinash Nair, Oncologist,Nagpur,4321098765
+Dr. Ayushman Gupta, Gastroenterologist,Nagpur,3210987643
+Dr. Bhavya Reddy, Gastroenterologist,Nagpur,2109876532
+Dr. Bhushan Sharma, Hematologist,Nagpur,1098765431
+Dr. Chaitanya Singh, Hematologist,Nagpur,9876543206
+Dr. Chandni Patel, Obstetrician,Nagpur,9123456791
+Dr. Charu Gupta, Obstetrician,Nagpur,9988776648
+Dr. Chirag Mehta, Pediatrician,Nagpur,8765432109
+Dr. Chitra Nair, Pediatrician,Nagpur,7654321088
+Dr. Deepali Joshi, Urologist,Nagpur,6543210976
+Dr. Deependra Kumar, Urologist,Nagpur,5432109865
+Dr. Devika Sharma, Endocrinologist,Nagpur,4321098764
+Dr. Dharmendra Singh, Endocrinologist,Nagpur,3210987642
+Dr. Dimple Patel, Toxicologist,Nagpur,2109876531
+Dr. Divyanshu Gupta, Toxicologist,Nagpur,1098765430
+Dr. Ekisha Reddy, Plastic Surgeon,Nagpur,9876543216
+Dr. Esha Nair, Plastic Surgeon,Nagpur,9123456792
+Dr. Farah Khan, Geneticist,Nagpur,9988776649
+Dr. Gaurav Sharma, Geneticist,Nagpur,8765432108
+Dr. Mahesh Gupta, Cardiologist,Nagpur,7654321087
+Dr. Arvind arora, Cardiologist,Nagpur,6543210975
+Dr. Aarohi Sharma, Otolaryngologist (ENT),Nagpur,5432109864
+Dr. Abhinav Patel, Otolaryngologist (ENT),Nagpur,4321098763
+Dr. Abhishek Gupta, Neonatologist,Nagpur,3210987641
+Dr. Adhira Singh, Neonatologist,Nagpur,2109876530
+Dr. Aditi Reddy, Vascular Surgeon,Nagpur,1098765429
+Dr. Akshay Verma, Vascular Surgeon,Nagpur,9876543207
+Dr. Alok Kumar, Orthopedic Surgeon,Nagpur,9123456793
+Dr. Aman Joshi, Orthopedic Surgeon,Nagpur,9988776650
+Dr. Amol Nair, Psychiatrist,Nagpur,8765432107
+Dr. Ananya Desai, Psychiatrist,Nagpur,7654321086
+Dr. Anirudh Chatterjee, Neurologist,Nagpur,6543210974
+Dr. Anjali Mehta, Neurologist,Nagpur,5432109863
+Dr. Ankit Reddy, Gastroenterologist,Nagpur,4321098762
+Dr. Anupama Gupta, Gastroenterologist,Nagpur,3210987640
+Dr. Arvind Sharma, Oncologist,Nagpur,2109876529
+Dr. Ashwin Patel, Oncologist,Nagpur,1098765428
+Dr. Ayesha Singh, Pulmonologist,Nagpur,9876543217
+Dr. Ayush Gupta, Pulmonologist,Nagpur,9123456794
+Dr. Bhargav Joshi, Infectious Disease Specialist,Nagpur,9988776651
+Dr. Bhavna Reddy, Infectious Disease Specialist,Nagpur,8765432106
+Dr. Bhushan Iyer, Dermatologist,Nagpur,7654321085
+Dr. Charvi Sharma, Dermatologist,Nagpur,6543210973
+Dr. Chaitanya Patel, Hematologist,Nagpur,5432109862
+Dr. Chandni Gupta, Hematologist,Nagpur,4321098761
+Dr. Chiranjeevi Reddy, Endocrinologist,Nagpur,3210987639
+Dr. Deependra Singh, Endocrinologist,Nagpur,2109876528
+Dr. Deepika Nair, Pediatrician,Nagpur,1098765427
+Dr. Devanshi Joshi, Pediatrician,Nagpur,9876543208
+Dr. Dhruv Patel, Obstetrician,Nagpur,9123456795
+Dr. Dinesh Gupta, Obstetrician,Nagpur,9988776652
+Dr. Disha Sharma, General Surgeon,Nagpur,8765432105
+Dr. Ekta Reddy, General Surgeon,Nagpur,7654321084
+Dr. Eshan Kumar, Rheumatologist,Nagpur,6543210972
+Dr. Farhan Verma, Rheumatologist,Nagpur,5432109861
+Dr. Gaurav Iyer, Neurologist,Nagpur,4321098760
+Dr. Gayatri Singh, Neurologist,Nagpur,3210987638
+Dr. Gaurav Sharma, Ophthalmologist,Nagpur,2109876527
+Dr. Hemlata Patel, Ophthalmologist,Nagpur,1098765426
+Dr. Himanshu Gupta, Infectious Disease Specialist,Nagpur,9876543218
+Dr. Hiral Joshi, Infectious Disease Specialist,Nagpur,9123456796
+Dr. Hrithik Reddy, Psychiatrist,Nagpur,9988776653
+Dr. Isha Sharma, Psychiatrist,Nagpur,8765432104
+Dr. Ishaan Patel, General Practitioner,Nagpur,7654321083
+Dr. Jahanvi Gupta, General Practitioner,Nagpur,6543210971
+Dr. Jai Singh, Urologist,Nagpur,9876543210
+Dr. Janvi Reddy, Urologist,Nagpur,9123456789
+Dr. Jayant Kumar, Gastroenterologist,Nagpur,8765432109
+Dr. Jyotika Sharma, Gastroenterologist,Nagpur,9988776655
+Dr. Kaira Patel, Oncologist,Nagpur,9012345678
+Dr. Kalyan Gupta, Oncologist,Nagpur,9123456780
+Dr. Kanika Reddy, Pulmonologist,Nagpur,9876012345
+Dr. Karishma Joshi, Pulmonologist,Nagpur,9908765432
+Dr. Kiran Singh, Infectious Disease Specialist,Nagpur,9123678901
+Dr. Kritika Sharma, Infectious Disease Specialist,Nagpur,9987612345
+Dr. Krishan Kumar, Dermatologist,Nagpur,9876543201
+Dr. Lakshya Patel, Dermatologist,Nagpur,9009876543
+Dr. Lavanya Gupta, Hematologist,Nagpur,9898989898
+Dr. Manav Reddy, Hematologist,Nagpur,9101010101
+Dr. Mandakini Joshi, Endocrinologist,Nagpur,9876789012
+Dr. Manish Iyer, Endocrinologist,Nagpur,9234567890
+Dr. Meenal Sharma, Pediatrician,Nagpur,9998877766
+Dr. Mihir Gupta, Pediatrician,Nagpur,9765432101
+Dr. Mohini Reddy, Obstetrician,Nagpur,9098765432
+Dr. Mukul Patel, Obstetrician,Nagpur,9543210987
+Dr. Nandini Joshi, General Surgeon,Nagpur,9876012390
+Dr. Niharika Singh, General Surgeon,Nagpur,9234015678
+Dr. Nitin Kumar, Rheumatologist,Nagpur,9897654321
+Dr. Pallav Reddy, Rheumatologist,Nagpur,9123894567
+Dr. Parul Gupta, Neurologist,Nagpur,9876098765
+Dr. Pavan Sharma, Neurologist,Nagpur,9345678901
+Dr. Piyush Patel, Ophthalmologist,Nagpur,9987654321
+Dr. Pranali Joshi, Ophthalmologist,Nagpur,9876098065
