@@ -1,0 +1,90 @@
+.container1 {
+  background: rgb(250, 151, 22);
+  background: linear-gradient(
+    90deg,
+    #ffa726, #fb8c00, #f57c00
+  );
+  width: 100%;
+  border-bottom: 1px solid rgb(255, 255, 255);
+  padding: 50px 50px;
+ 
+}
+
+.container2 {
+  background-color:rgb(28, 28, 28);
+  color: white;
+  padding: 10px 30px;
+  padding-top: 10px;
+  border-radius: 20px 20px 20px 20px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  transition: all 500ms;
+}
+
+.container2:hover {
+  color: black;
+  background-color: white;
+}
+
+.selectContainer2 {
+  color: black;
+  background-color: rgb(35, 213, 35);
+  padding: 10px 30px;
+  padding-top: 10px;
+  border-radius: 20px 20px 20px 20px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  transition: all 500ms;
+}
+
+.selectContainer2:hover {
+  color: black;
+  background-color: white;
+}
+
+.flex {
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+.scrollableDoctors {
+  display: flex; /* Arrange doctors horizontally */
+  overflow-x: auto; /* Enable horizontal scrolling */
+  white-space: nowrap; /* Prevent wrapping of content */
+  padding-bottom: 10px; /* Optional: Add some space at the bottom */
+}
+
+.doctorCard {
+  display: inline-block; /* Make each doctor card appear inline */
+  width: 200px; /* Set a fixed width for each card */
+  margin-right: 15px; /* Add space between cards */
+  background: #f5f5f5; /* Add background to cards */
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.doctorName {
+  font-weight: bold;
+}
+
+.doctorSpecialty {
+  color: #777;
+}
+
+.doctorLocation {
+  color: #444;
+}
+
+.noDoctorsMessage {
+  color: black; /* A red color for the warning message */
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 20px;
+}
